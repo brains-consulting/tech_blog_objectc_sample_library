@@ -1,5 +1,9 @@
 """Setup file."""
+import os
 from setuptools import setup, Extension
+
+
+os.environ['LDFLAGS'] = '-framework Foundation'
 
 DEVICE_MODULE = Extension(
     'pymetal.device',
