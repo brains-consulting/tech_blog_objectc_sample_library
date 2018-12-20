@@ -1,0 +1,2 @@
+# tech_blog_objectc_sample_library
+ブログ記事「Objective-CでPythonライブラリを作ってみる」用のレポジトリ
