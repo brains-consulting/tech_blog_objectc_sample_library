@@ -1,5 +1,4 @@
 #import <Metal/MTLDevice.h>
-#import "Python.h"
 
 NSString* getDeviceName()
 {
