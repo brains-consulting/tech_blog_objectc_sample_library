@@ -1,5 +1,5 @@
 # tech_blog_objectc_sample_library
-ブログ記事: [Objective-CでPythonライブラリを作ってみる]()
+ブログ記事: [Objective-CでPythonモジュールを作ってみる](https://blog.brains-consulting.tech/entry/2019/01/15/114106)
 
 ## インストール
 - `pip install git+https://github.com/brains-consulting/tech_blog_objectc_sample_library.git`
